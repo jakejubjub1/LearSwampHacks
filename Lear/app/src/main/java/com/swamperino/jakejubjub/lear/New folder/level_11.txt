@@ -1,0 +1,7 @@
+﻿Duke says: “I am a knave, or the Earl is a knight”
+Earl says: Does not say anything%
+2
+2
+Duke
+2
+Earl

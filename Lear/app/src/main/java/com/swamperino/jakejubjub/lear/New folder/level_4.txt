@@ -1,0 +1,7 @@
+﻿Duke says: “Of the Fool and I, exactly one is a knight”
+Fool says: “Only a knave would say that the Duke is a knave”%
+2
+0
+Duke
+1
+Fool

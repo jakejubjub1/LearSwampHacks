@@ -1,0 +1,10 @@
+﻿Duke says: “The Earl is a knave”
+Earl says: “The Duke and the Fool are the same type”
+Fool says: Does not say anything%
+3
+2
+Duke
+2
+Earl
+1
+Fool

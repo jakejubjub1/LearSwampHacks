@@ -1,0 +1,7 @@
+Duke says: “The Fool is a Knight”
+Fool says: “The Duke is a Knave”%
+2
+1
+Duke
+0
+Fool

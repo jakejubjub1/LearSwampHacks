@@ -1,0 +1,10 @@
+﻿Duke says: “We are all knaves”
+Earl says: “One of us is a knight”
+Fool say: Does not say anything%
+3
+1
+Duke
+0
+Earl
+1
+Fool

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:paddingBottom="60dp"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.garrett.hackathonproject.Level_Select"
+    tools:showIn="@layout/activity_level_select">
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text= "Beginner"
+        android:layout_gravity="center_horizontal"
+        android:onClick="beginners"
+        android:layout_weight=".25" />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text= "Intermediate"
+        android:layout_gravity="center_horizontal"
+        android:onClick="intermediate"
+        android:layout_weight=".25"/>
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Advanced"
+        android:layout_gravity="center_horizontal"
+        android:onClick="advanced"
+        android:layout_weight=".25"/>
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="EXPERT!!"
+        android:layout_gravity="center_horizontal"
+        android:onClick="expert"
+        android:layout_weight=".25"/>
+
+</LinearLayout>

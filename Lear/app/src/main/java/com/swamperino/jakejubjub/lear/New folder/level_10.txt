@@ -1,0 +1,7 @@
+﻿Duke says: “Neither of us is a knight”
+Fool: Does not say anything%
+2
+1
+Duke
+0
+Fool

@@ -1,0 +1,7 @@
+﻿Duke says: “The Fool was at the party, I saw him”
+Fool says: “The Duke went to the party, but I did not”%
+2
+0
+Duke
+1
+Fool

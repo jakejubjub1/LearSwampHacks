@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    android:paddingTop="30dp"
+    android:paddingBottom="60dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main">
+    <TextView android:id="@+id/edit_message"
+        android:layout_weight=".4"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        android:textColor="#b300b0"
+        android:textColorHighlight="#000000"
+        android:textSize="70dp"
+        android:text="Lear"/>
+    <Button
+        android:layout_weight=".2"
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:text="Level Select"
+        android:background="#ffffff"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal"
+        android:onClick="levelSelect" />
+
+    <Button
+        android:layout_weight=".2"
+        android:layout_width="200dp"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Continue"
+        android:onClick="contSesh"/>
+    <Button
+        android:layout_weight=".2"
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:background="#ffffff"
+        android:layout_gravity="center_horizontal"
+        android:text="Instructions"
+        android:onClick="instructions"/>
+
+</LinearLayout>
